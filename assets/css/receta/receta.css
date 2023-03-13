@@ -1,6 +1,7 @@
-.recetas{
-    background: #dab997;
+.receta{
+    background: #fdfdfd;
     display: flex;
-    flex-wrap: wrap;
-    padding: 5rem 0 0 5rem;
+    flex-direction: column;
+    margin: 2.75rem;
+    width: calc(25% - .9rem);
 }
