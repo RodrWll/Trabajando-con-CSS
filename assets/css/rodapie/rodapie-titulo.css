@@ -3,6 +3,6 @@
     color: #8c8888;
     font-weight: 400;
     font-size: 1.25rem;
-    align-items: center;
+    align-items: flex-end;
     padding: 1.5625rem;
 }
